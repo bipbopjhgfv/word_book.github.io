@@ -1,0 +1,228 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    transition: 1s;
+} 
+.fon{
+
+    position: absolute;
+    
+}
+.pr1{
+    position: absolute;
+    left: 67%;
+}
+.pr2{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 53%; 
+    top: 2%;
+    font-size: 30px;
+}
+.pr3{
+    word-spacing: 30px;
+    text-decoration: none;
+    position: absolute;
+    left: 4%;
+    top: 7%;
+    font-size: 25px;
+    display: inline-block;
+    height: 3px;
+}
+.pr3 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#ffffff;
+}
+.pr3 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #fafafa; 
+    transition: width 0.4s ease-in-out;
+ }
+ .pr3 a:hover:after,
+ .pr3 a:focus:after {
+     width: 100%;
+ }
+
+.menu-item{
+    text-decoration: none;
+    color: rgb(255, 255, 255)
+}
+.pr4{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    left: 18%;
+    top: 40%;
+    position: absolute;
+}
+.pr5{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    left: 25%;
+    top: 50%;
+    position: absolute;
+}
+.fon2{
+    position: absolute;
+    top: 100%;
+}
+.d1{
+    position: absolute;
+    top: 101%;
+    left: 5%;
+}
+.d2{
+    color: rgb(186, 111, 101);
+    position: absolute;
+    top: 102%;
+    left: 56%;
+    font-size: 40px;
+}
+.d3{
+    color: rgb(186, 111, 101);
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    font-size: 30px;
+}
+.d4{
+    word-spacing: 30px;
+    text-decoration: none;
+    position: absolute;
+    left: 56%;
+    top: 155%;
+    font-size: 25px;
+}
+.d4 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#c76262;
+}
+.d4 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #994e4e;
+    transition: width 0.4s ease-in-out;
+ }
+ .d4 a:hover:after,
+ .d4 a:focus:after {
+     width: 100%;
+ }
+.fon3{
+    position: absolute;
+    top: 185%;
+}
+.v1{
+    position: absolute;
+    top: 185%;
+    left: 50%;
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+}
+.v2{
+    position: absolute;
+    top: 220%;
+    left: 55%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.v3{
+    position: absolute;
+    top: 225%;
+    left: 55%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.v4{
+    position: absolute;
+    top: 230%;
+    left: 55%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.v5{
+    position: absolute;
+    top: 235%;
+    left: 70%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.v6
+{
+    position: absolute;
+    top: 232%;
+    left: 55%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.v7{
+    position: absolute;
+    top: 185%;
+   
+}
+.fon4{
+    position: absolute;
+    top: 280%;
+}
+.e1{
+    position: absolute;
+    top: 280%;
+    right: 0%;
+}
+.e2{
+    color: rgb(160, 100, 93);
+    position: absolute;
+    left: 8%;
+    font-size: 60px;
+    top: 280%;
+}
+.e3{
+    color: rgb(186, 111, 101);
+    position: absolute;
+    left: 12%;
+    font-size: 40px;
+    top: 300%;
+}
+.e4{
+   
+    position: absolute;
+    left: 35%;
+    top: 345%;
+}
+.e5{
+    color: rgb(186, 111, 101);
+    position: absolute;
+    left: 39%;
+    top: 345%;
+    font-size: 25px;
+}
+.e6{
+    
+    position: absolute;
+    left: 35%;
+    top: 355%;
+}
+.e7{
+    color: rgb(186, 111, 101);
+    position: absolute;
+    left: 39%;
+    top: 354%;
+    font-size: 25px;
+}
+.e8{
+    position: absolute;
+    left: 5%; 
+    top: 354%;
+    font-size: 30px;
+}
+.menu-item2{
+    text-decoration: none;
+    color: rgb(186, 111, 101);
+}

@@ -1,0 +1,289 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    
+} 
+.fon{
+    position: absolute;
+}
+.t1{
+    position: absolute;
+    font-size: 60px;
+    color: aliceblue;
+    top: 2%;
+    left: 44%;
+}
+.t2{
+    position: absolute;
+    font-size: 40px;
+    color: aliceblue;
+    top: 25%;
+    left: 5%;
+}
+.t3{
+    position: absolute;
+    font-size: 40px;
+    color: aliceblue;
+    top: 40%;
+    left: 58%;
+}
+.fon2{
+    position: absolute;
+    top: 66%;
+}
+.b1{
+    position: absolute;
+    top: 76%;
+    left: 5%;
+}
+.b1 img:hover {
+    transform: scale(1.1);
+  }
+.b2{
+    position: absolute;
+    top: 76%;
+    left: 40%; 
+}
+.b2 img:hover {
+    transform: scale(1.1);
+  }
+.b3{
+    position: absolute;
+    top: 76%;
+    right: 5%;
+}
+.b3 img:hover {
+    transform: scale(1.1);
+  }
+.b4{
+    position: absolute;
+    top: 135%;
+    left: 5%;
+}
+.b4 img:hover {
+    transform: scale(1.1);
+  }
+.b5{
+    position: absolute;
+    top: 135%;
+    left: 40%;
+}
+.b5 img:hover {
+    transform: scale(1.1);
+  }
+.b6{
+    position: absolute;
+    top: 135%;
+    right: 5%;
+}
+.b6 img:hover {
+    transform: scale(1.1);
+  }
+.circle1 {
+    border-radius: 50%;  
+    border: 5px solid #fff; 
+    box-shadow: 2px 1px 5px #999999; 
+}
+.circle2 {
+    border-radius: 50%;  
+    border: 5px solid #fff; 
+    box-shadow: 2px 1px 5px #999999; 
+}
+.circle3 {
+    border-radius: 50%;  
+    border: 5px solid #fff; 
+    box-shadow: 2px 1px 5px #999999; 
+}
+.circle4 {
+    border-radius: 50%;  
+    border: 5px solid #fff; 
+    box-shadow: 2px 1px 5px #999999; 
+}
+.circle5 {
+    border-radius: 50%;  
+    border: 5px solid #fff; 
+    box-shadow: 2px 1px 5px #999999; 
+}
+.circle6 {
+    border-radius: 50%;  
+    border: 5px solid #fff; 
+    box-shadow: 2px 1px 5px #999999; 
+}
+.a1{
+    position: absolute;
+    font-size: 30px;
+    top: 117%;
+    left: 9%;
+}
+.a2{
+    position: absolute;
+    font-size: 30px;
+    top: 117%;
+    left: 44%;
+}
+.a3{
+    position: absolute;
+    font-size: 30px;
+    top: 117%;
+    right: 9%;
+}
+.a4{
+    position: absolute;
+    font-size: 30px;
+    top: 176%;
+    left: 9%;
+}
+.a5{
+    position: absolute;
+    font-size: 30px;
+    top: 176%;
+    left: 44%;
+}
+.a6{
+    position: absolute;
+    font-size: 30px;
+    top: 176%;
+   right: 9% ;
+}
+.a1 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#c76262;
+}
+.a1 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #994e4e;
+    transition: width 0.4s ease-in-out;
+ }
+ .a1 a:hover:after,
+ .a1 a:focus:after {
+     width: 100%;
+ }
+
+
+
+
+
+ .a2 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#c76262;
+}
+.a2 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #994e4e;
+    transition: width 0.4s ease-in-out;
+ }
+ .a2 a:hover:after,
+ .a2 a:focus:after {
+     width: 100%;
+ }
+
+
+
+
+ .a3 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#c76262;
+}
+.a3 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #994e4e;
+    transition: width 0.4s ease-in-out;
+ }
+ .a3 a:hover:after,
+ .a3 a:focus:after {
+     width: 100%;
+ }
+
+
+
+
+
+ .a4 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#c76262;
+}
+.a4 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #994e4e;
+    transition: width 0.4s ease-in-out;
+ }
+ .a4 a:hover:after,
+ .a4 a:focus:after {
+     width: 100%;
+ }
+
+
+
+
+
+
+ .a5 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#c76262;
+}
+.a5 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #994e4e;
+    transition: width 0.4s ease-in-out;
+ }
+ .a5 a:hover:after,
+ .a5 a:focus:after {
+     width: 100%;
+ }
+
+
+
+
+ .a6 a{
+    text-decoration:none; 
+display: inline-block; 
+line-height: 1; 
+color:#c76262;
+}
+.a6 a:after {
+    display: block; 
+    content: ""; 
+    height: 3px;
+    width: 0%; 
+    background-color: #994e4e;
+    transition: width 0.4s ease-in-out;
+ }
+ .a6 a:hover:after,
+ .a6 a:focus:after {
+     width: 100%;
+ }
+ .e8{
+    position: absolute;
+    right: 5%;
+    top: 6%;
+    font-size: 30px;
+}
+.menu-item2{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
